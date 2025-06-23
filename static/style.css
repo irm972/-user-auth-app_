@@ -1,0 +1,29 @@
+
+body {
+  font-family: sans-serif;
+  background: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+}
+form {
+  background: #1f1f1f;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 10px;
+}
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 250px;
+}
+button {
+  background: gold;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+a {
+  color: gold;
+}
